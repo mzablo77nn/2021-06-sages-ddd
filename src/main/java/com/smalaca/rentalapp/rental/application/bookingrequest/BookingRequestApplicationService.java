@@ -1,4 +1,4 @@
-package com.smalaca.rentalapp.rental.application.booking;
+package com.smalaca.rentalapp.rental.application.bookingrequest;
 
 public class BookingRequestApplicationService {
     public void requestApartmentBooking() {

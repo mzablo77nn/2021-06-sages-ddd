@@ -1,6 +1,6 @@
 package com.smalaca.rentalapp.rental.infrastructure.api.foobar;
 
-import com.smalaca.rentalapp.rental.application.booking.BookingRequestApplicationService;
+import com.smalaca.rentalapp.rental.application.bookingrequest.BookingRequestApplicationService;
 
 public class BookingRequestFooBarController {
     private final BookingRequestApplicationService bookingRequestApplicationService;
