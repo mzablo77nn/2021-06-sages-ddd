@@ -4,4 +4,8 @@ public class ApartmentApplicationService {
     public void chooseApartment() {
         // ??????? czy to nie query
     }
+
+    public void checkAvailability() {
+
+    }
 }
